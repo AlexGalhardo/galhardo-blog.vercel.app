@@ -84,5 +84,5 @@
     - Exemplo: Problema do vendedor viajante
       - "Dada uma lista de cidades e as distâncias entre cada par de cidades, qual é o caminho mais curto possível que visita cada cidade e retorna à cidade de origem?"
   - <strong>Resumo</strong>
-    - <img src="big-o-names.jpeg" alt="Big(O) Names">
-    - <img src="big-o-graphic.jpeg" alt="Big(O) Graphic">
+    - <img src="../docs/assets/images/big-o-names.jpeg" alt="Big(O) Names">
+    - <img src="../docs/assets/images/big-o-graphic.jpeg" alt="Big(O) Graphic">
