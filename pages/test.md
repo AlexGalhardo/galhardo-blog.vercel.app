@@ -1,4 +1,4 @@
-# Test
+## Test
 
 This is a **test** markdown file.
 
@@ -18,26 +18,26 @@ This is a **test** markdown file.
     #### This is an <h4> tag
     ##### This is an <h5> tag
     ###### This is an <h6> tag
-    
+
 ### Emphasis
 
     *This text will be italic*
     _This will also be italic_
-    
+
     **This text will be bold**
     __This will also be bold__
-    
+
     _You **can** combine them_
-    
+
 Result:
 
-*This text will be italic*
+_This text will be italic_
 
 _This will also be italic_
 
 **This text will be bold**
 
-__This will also be bold__
+**This will also be bold**
 
 _You **can** combine them_
 
@@ -52,21 +52,21 @@ _You **can** combine them_
 
 Result:
 
-* Milk
-* Bread
-    * Wholegrain
-* Butter
+- Milk
+- Bread
+  - Wholegrain
+- Butter
 
 **Ordered:**
 
-    1. Tidy the kitchen  
-    2. Prepare ingredients  
+    1. Tidy the kitchen
+    2. Prepare ingredients
     3. Cook delicious things
 
 Result:
 
-1. Tidy the kitchen  
-2. Prepare ingredients  
+1. Tidy the kitchen
+2. Prepare ingredients
 3. Cook delicious things
 
 ### Images
@@ -80,7 +80,7 @@ Result:
 ### Links
 
     [link](http://example.com)
-    
+
 Result:
 
 [link](http://example.com)
@@ -95,6 +95,7 @@ Result:
 Result:
 
 As Kanye West said:
+
 > We're living the future so
 > the present is our past.
 
@@ -208,8 +209,8 @@ Result:
 
 ```javascript
 function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
+  if (arg) {
+    $.facebox({ div: "#foo" });
   }
 }
 ```
@@ -232,10 +233,10 @@ Result:
 
 You can create tables by assembling a list of words and dividing them with hyphens `-` (for the first row), and then separating each column with a pipe `|`:
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+| First Header                | Second Header                |
+| --------------------------- | ---------------------------- |
+| Content from cell 1         | Content from cell 2          |
+| Content in the first column | Content in the second column |
 
 ### SHA references
 
@@ -252,7 +253,7 @@ Any number that refers to an Issue or Pull Request will be automatically convert
     #1
     mojombo#1
     mojombo/github-flavored-markdown#1
-    
+
 ### Username @mentions
 
 Typing an `@` symbol, followed by a username, will notify that person to come and view the comment. This is called an “@mention”, because you’re mentioning the individual. You can also @mention teams within an organization.
@@ -263,5 +264,5 @@ GitHub supports emoji! Check out the [Emoji Cheat Sheet](http://www.emoji-cheat-
 
 ## References
 
-* http://blog.ghost.org/markdown/
-* https://guides.github.com/features/mastering-markdown/
+- http://blog.ghost.org/markdown/
+- https://guides.github.com/features/mastering-markdown/
