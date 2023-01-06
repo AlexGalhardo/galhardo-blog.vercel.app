@@ -37,7 +37,7 @@
     - Preferível na maioria das vezes
     - Logaritimos são o inverso da exponenciação.
     - Exemplo: Algoritmo de busca binária -> dividir para conquistar
-    - <img src="ologn.png" alt="ologn">
+    - <img src="docs/assets/images/ologn.png" alt="ologn">
   - Linear time O(n)
     - Preferível na maioria das vezes
     - Se um algoritmo possui tempo linear, significa que o tempo de execução aumenta linearmente de acordo com o tamanho do input.
