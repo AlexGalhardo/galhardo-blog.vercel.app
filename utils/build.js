@@ -9,7 +9,7 @@ const checkBox = require('./lib/checkBox');
 
 marked.setOptions({
     langPrefix: '',
-    highlight: function(code) {
+    highlight: function (code) {
         return highlight.highlightAuto(code).value;
     },
 });
@@ -27,7 +27,7 @@ markdown.forEach(file => {
 
     // Convert markdown to html
     const content = marked(markdownText);
-    
+
     // Replace index dev script with page content
     let output = index.replace('<script type="module" src="./utils/dev.js"></script>', content);
 
@@ -40,7 +40,7 @@ markdown.forEach(file => {
 
     // Replace local '?' dev links with built '.html'
     output = output.replace(/href="\?(.*?)"/g, 'href="$1.html"')
-    
+
     // Output built html to build folder
     const outputFile = file.replace('.md', '.html');
     fs.writeFileSync(BUILD + outputFile, output);
