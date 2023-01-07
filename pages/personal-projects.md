@@ -14,3 +14,4 @@ Some cool things I like to program and learn in my spare time
 - <a href="https://github.com/AlexGalhardo/TypeScript-CLI-RPG" target="_blank">TypeScript CLI RPG</a>
 - <a href="https://github.com/AlexGalhardo/galhardo-blog.vercel.app" target="_blank">This Blog Source Code</a>
 - <a href="https://github.com/AlexGalhardo/EBANX-SoftwareEngineer-Technical-Test" target="_blank">EBANX Software Engineer Technical Test 2022</a>
+- <a href="https://github.com/AlexGalhardo/hackathon-comunicode" target="_blank">Hackathon ComuniCode Madre Cabrini 2018</a>
