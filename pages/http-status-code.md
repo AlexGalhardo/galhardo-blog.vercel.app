@@ -1,6 +1,6 @@
 ## HTTP Status Codes
 
-- Source/Credits: https://github.com/waldemarnt/http-status-codes
+- Source: https://github.com/waldemarnt/http-status-codes
 - Others: https://httpstatuses.com/
 
 ### Informational 1xx

@@ -1,8 +1,11 @@
-## Links
+## Blogs
 
-## Articles
+- [Martin Fowler](https://martinfowler.com)
+- [Lucas Santos Dev](https://blog.lsantos.dev/)
+- [William Justen](https://willianjusten.com.br/)
 
-- [CQRS - Martin Fowler](https://martinfowler.com/bliki/CQRS.html)
+## Windows
+- [https://www.baboo.com.br/](https://www.baboo.com.br/)
 
 ## Open Source
 

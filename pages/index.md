@@ -2,12 +2,15 @@
 
 Usefull links, commands and other things to get fast access
 
-- [Links](?links)
-- [Commands](?commands)
-- [HTTP Status Codes](?http)
-- [Algorithms and Data Structures](?algorithms)
-- [YouTube Channels I Recommend](?youtube)
+- [Usefull Links](?usefull-links)
+- [Usefull Commands](?usefull-commands)
+- [HTTP Status Codes](?http-status-code)
+- [CronJobs](?cronjobs)
+- [Study Tips](?study-tips)
+- [Software Engineering Resume](?software-engineering-resume)
+- [Algorithms and Data Structures](?algorithms-and-data-structures)
+- [YouTube Channels I Recommend](?youtube-channels-i-recommend)
 
 ## Articles
 
-- April 2022 - [Teorema do Macaco Infinito e a Máquina de Turing](?teorema-do-macaco-infinito-e-maquina-de-turing)
+- April 2022 - [Infinite Monkey Theorem and the Turing Machine](?infinite-monkey-theorem-and-the-turing-machine)
