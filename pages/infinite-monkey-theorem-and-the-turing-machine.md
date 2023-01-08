@@ -2,7 +2,7 @@
 
 Imagine a monkey sitting in front of a computer, typing totally random things. Given infinite time, the monkey will type EVERY book written by mankind to date. That's the Infinite Monkey Theorem, one of the most important things I've learned in my life.
 
-There is a very direct and simple to understand summary on wikipedia: https://pt.wikipedia.org/wiki/Teorema_do_macaco_infinito
+There is a very direct and simple to understand summary on wikipedia: https://bit.ly/3Zi2gWe
 
 Now imagine that your favorite song has exactly 10 MegaBytes, and knowing that 1 Byte is 8 bits, then:
 

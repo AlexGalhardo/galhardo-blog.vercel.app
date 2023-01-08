@@ -25,18 +25,18 @@
 - Visualization of Data Structures
   - [VisualGo](https://visualgo.net/en)
   - [University of San Francisco - CS](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-  - [https://www.cs.usfca.edu/~galles/visualization/AVLtree.html](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
+  - [https://bit.ly/3vKoans](https://bit.ly/3vKoans)
 - Big O Notation 💀
   - [bigocheatsheet.com](http://bigocheatsheet.com/)
-  - [A coffee-break introduction to time complexity of algorithms](https://dev.to/vickylai/a-coffee-break-introduction-to-time-complexity-of-algorithms-160m?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+  - [https://bit.ly/3GpYZvs](https://bit.ly/3GpYZvs)
   - <b> O(1) Constant Time </b>
     - Best possible case
     - If an algorithm has constant time, it means that it will always take the same amount of time to produce the result.
     - Example: array.pop() -> removing the last item from an array, regardless of size, will always take the same amount of time!
   - <b>Logarithms O(logn)</b>
-     - Preferable most of the time
-     - Logarithms are the inverse of exponentiation.
-     - Example: Binary search algorithm -> divide and conquer
+    - Preferable most of the time
+    - Logarithms are the inverse of exponentiation.
+    - Example: Binary search algorithm -> divide and conquer
     - <img style="width: 100%" src="docs/assets/images/ologn.png" alt="ologn">
   - <b>Linear time O(n)</b>
     - Preferable most of the time
