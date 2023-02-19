@@ -3,6 +3,20 @@
 - [Martin Fowler](https://martinfowler.com)
 - [Lucas Santos Dev](https://blog.lsantos.dev/)
 - [William Justen](https://willianjusten.com.br/)
+- [https://www.tabnews.com.br/](https://www.tabnews.com.br/)
+
+## Newsletter
+- [Filipe Deschamps](https://filipedeschamps.com.br/newsletter)
+
+## Podcasts
+
+- [https://www.hipsters.tech/](https://www.hipsters.tech/)
+- [https://techleadership.rocks/](https://techleadership.rocks/)
+- [https://devnaestrada.com.br/](https://devnaestrada.com.br/)
+
+## Tirinhas
+- [https://developerslife.tech/pt/](https://developerslife.tech/pt/)
+- [https://vidadesuporte.com.br/](https://vidadesuporte.com.br/)
 
 ## Windows
 - [https://www.baboo.com.br/](https://www.baboo.com.br/)

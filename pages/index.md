@@ -14,3 +14,4 @@ Usefull links, commands and other things to get fast access
 ## Articles
 
 - April 2022 - [Infinite Monkey Theorem and the Turing Machine](?infinite-monkey-theorem-and-the-turing-machine)
+- February 2023 - [TabNews - 14 hábitos de programadores altamente produtivos - ZenoRocha](https://www.tabnews.com.br/viniciussantos45/14-habitos-de-programadores-altamente-produtivos)
