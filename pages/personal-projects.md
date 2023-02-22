@@ -2,6 +2,7 @@
 
 Some cool things I like to program and learn in my spare time
 
+- <a href="https://github.com/AlexGalhardo/todo-api-clean-architecture" target="_blank">ToDo API Clean Architecture</a>
 - <a href="https://github.com/AlexGalhardo/Galhardo-APP-3.0" target="_blank">Galhardo APP 3.0 (in development)</a>
 - <a href="https://github.com/AlexGalhardo/Galhardo-APP-2.0" target="_blank">Galhardo APP 2.0 (archived)</a>
 - <a href="https://github.com/AlexGalhardo/Galhardo-APP-1.0" target="_blank">Galhardo APP 1.0 (archived)</a>
